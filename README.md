@@ -21,7 +21,7 @@
 | 대학원생 인터뷰 | 인공지능 분야에 관심이 있는 팀원이 많았는데, 인공지능 랩실에 오기 위해 어떤 것을 해야하는지 알아봄 | 인공지능 관련 강의, 학부연구생, 현장실습, 유튜브 강의, 캐글 실습 | ![image](https://github.com/user-attachments/assets/eed61b1f-8a66-4f0e-9f12-28a93c91de94) | 
 | 보직 교수님 면담 | 학교 교과 활동과 비교과 활동 중 도움이 될 수 있는 활동을 알아봄 | 특정 분야보다는 다양한 분야 학습하기, UCI Great Program | ![image](https://github.com/user-attachments/assets/3bc3510f-be8f-4fe3-b2ed-50f2cfd8a0e5) |
 | 정보통신처 탐방 | 학교 on국민 등의 시스템이 어떻게 운영되는지 알아봄 | 실제 서비스에서 보안과 트래픽 처리 등이 어떻게 이루어지고 있는지 알 수 있었음 | ![image](https://github.com/user-attachments/assets/b13caca7-74a2-4e45-8f8e-ef7d5c79df09) |
-| 소융대 멘토링 | 최근 인공지능 트랜드와 앞으로의 동향에 대해 알아봄 | 멀티모달 LLM, Fine-Tuning, RAG, Edge-AI에 대해 알게 되었고 추후 몇년간 이러한 기술이 계속 발전할 것 | --- |
+| 소융대 멘토링 | 최근 인공지능 트랜드와 앞으로의 동향에 대해 알아봄 | 멀티모달 LLM, Fine-Tuning, RAG, Edge-AI에 대해 알게 되었고 추후 몇년간 이러한 기술이 계속 발전할 것 | ![스크린샷 2024-11-16 105849](https://github.com/user-attachments/assets/e9973594-802f-4083-bf24-106de361846d) |
 | 행정실 탐방 | 팀원들 중 전과 혹은 복수전공을 하고 있는 비율이 높았기에 이러한 부분에서 도움을 받을 수 있는 부분이나 주의할 점에 대해서 알아봄 | 학점인정표로 인정 과목 알아보기, 전과 후 어려움이 있다면 융합전공 알아보기 | ![image](https://github.com/user-attachments/assets/5e542138-f81c-4fb7-a705-3a90974ab2cc) |
 
 # 팀 활동을 기반으로 추가로 알아본 것
