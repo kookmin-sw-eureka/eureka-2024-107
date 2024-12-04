@@ -115,7 +115,7 @@
             <td style="border: 1px solid #ddd; padding: 10px; vertical-align: middle;">팀원들 중 전과 혹은 복수전공을 하고 있는 비율이 높았기에 이러한 부분에서 도움을 받을 수 있는 부분이나 주의할 점에 대해서 알아봄</td>
             <td style="border: 1px solid #ddd; padding: 10px; vertical-align: middle;">학점인정표로 인정 과목 알아보기, 전과 후 어려움이 있다면 융합전공 알아보기</td>
             <td style="border: 1px solid #ddd;">
-                <img src="https://github.com/user-attachments/assets/5e542138-f81c-4fb7-a705-3a90974ab2cc" alt="행정실 탐방" style="width: 500px; height: auto;">
+                <img src="https://github.com/user-attachments/assets/ce246afa-b3e7-4c94-8677-818c058e6e4c" alt="행정실 탐방" style="width: 500px; height: auto;">
             </td>
         </tr>
     </tbody>
@@ -193,3 +193,5 @@
         </tr>
     </tbody>
 </table>
+
+
