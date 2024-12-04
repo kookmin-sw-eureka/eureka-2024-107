@@ -8,7 +8,7 @@
 
 # 팀 소개
 
-<table style="border-collapse: collapse; width: 100%; text-align: center;">
+<table style="border-collapse: collapse; text-align: center;">
     <thead>
         <tr>
             <th style="border: 1px solid #ddd; padding: 8px;">이름</th>
@@ -68,7 +68,7 @@
 
 # 팀 활동 중 도움이 된 활동
 
-<table style="border-collapse: collapse; width: 100%; text-align: center;">
+<table style="border-collapse: collapse; text-align: center;">
     <thead>
         <tr>
             <th style="border: 1px solid #ddd; padding: 10px;">활동</th>
