@@ -8,48 +8,59 @@
 
 # 팀 소개
 
-<table>
+<table style="border-collapse: collapse; width: 100%; text-align: center;">
     <thead>
         <tr>
-            <th>이름</th>
-            <th>전공</th>
-            <th>관심사</th>
-            <th>프로필</th>
+            <th style="border: 1px solid #ddd; padding: 8px;">이름</th>
+            <th style="border: 1px solid #ddd; padding: 8px;">전공</th>
+            <th style="border: 1px solid #ddd; padding: 8px;">관심사</th>
+            <th style="border: 1px solid #ddd; padding: 8px;">프로필</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td>김용민</td>
-            <td>소프트웨어학과</td>
-            <td>백엔드</td>
-            <td><img src="https://github.com/user-attachments/assets/a1e6f94e-0296-4450-b51c-d6e96f978332" alt="김용민" style="width:100px; height:100px;"></td>
+            <td style="border: 1px solid #ddd; padding: 8px; vertical-align: middle;">김용민</td>
+            <td style="border: 1px solid #ddd; padding: 8px; vertical-align: middle;">소프트웨어학과</td>
+            <td style="border: 1px solid #ddd; padding: 8px; vertical-align: middle;">백엔드</td>
+            <td style="border: 1px solid #ddd; padding: 8px; vertical-align: middle;">
+                <img src="https://github.com/user-attachments/assets/a1e6f94e-0296-4450-b51c-d6e96f978332" alt="김용민" style="width: 100px; height: 100px;">
+            </td>
         </tr>
         <tr>
-            <td>신관우</td>
-            <td>자동차IT융합학과</td>
-            <td>프론트엔드, 차량 인포테인먼트</td>
-            <td><img src="https://github.com/user-attachments/assets/af2d7277-58bd-4bef-97f2-6e299cc36369" alt="신관우" style="width:100px; height:100px;"></td>
+            <td style="border: 1px solid #ddd; padding: 8px; vertical-align: middle;">신관우</td>
+            <td style="border: 1px solid #ddd; padding: 8px; vertical-align: middle;">자동차IT융합학과</td>
+            <td style="border: 1px solid #ddd; padding: 8px; vertical-align: middle;">프론트엔드, 차량 인포테인먼트</td>
+            <td style="border: 1px solid #ddd; padding: 8px; vertical-align: middle;">
+                <img src="https://github.com/user-attachments/assets/af2d7277-58bd-4bef-97f2-6e299cc36369" alt="신관우" style="width: 100px; height: 100px;">
+            </td>
         </tr>
         <tr>
-            <td>김민식</td>
-            <td>소프트웨어학과</td>
-            <td>게임 프로그래밍</td>
-            <td><img src="https://github.com/user-attachments/assets/ba2df5e6-e862-41af-a6e0-154a8f665656" alt="김민식" style="width:100px; height:100px;"></td>
+            <td style="border: 1px solid #ddd; padding: 8px; vertical-align: middle;">김민식</td>
+            <td style="border: 1px solid #ddd; padding: 8px; vertical-align: middle;">소프트웨어학과</td>
+            <td style="border: 1px solid #ddd; padding: 8px; vertical-align: middle;">게임 프로그래밍</td>
+            <td style="border: 1px solid #ddd; padding: 8px; vertical-align: middle;">
+                <img src="https://github.com/user-attachments/assets/ba2df5e6-e862-41af-a6e0-154a8f665656" alt="김민식" style="width: 100px; height: 100px;">
+            </td>
         </tr>
         <tr>
-            <td>방민경</td>
-            <td>국어국문학과</td>
-            <td>파이썬</td>
-            <td><img src="https://github.com/user-attachments/assets/79d63c45-667e-4992-a9be-f12448601436" alt="방민경" style="width:100px; height:100px;"></td>
+            <td style="border: 1px solid #ddd; padding: 8px; vertical-align: middle;">방민경</td>
+            <td style="border: 1px solid #ddd; padding: 8px; vertical-align: middle;">국어국문학과</td>
+            <td style="border: 1px solid #ddd; padding: 8px; vertical-align: middle;">파이썬</td>
+            <td style="border: 1px solid #ddd; padding: 8px; vertical-align: middle;">
+                <img src="https://github.com/user-attachments/assets/79d63c45-667e-4992-a9be-f12448601436" alt="방민경" style="width: 100px; height: 100px;">
+            </td>
         </tr>
         <tr>
-            <td>유성환</td>
-            <td>정보보안암호수학과</td>
-            <td>정보보안, 운동, 음악</td>
-            <td><img src="https://github.com/user-attachments/assets/61c4a73a-fcf1-4a64-af70-af4e6afcadbe" alt="유성환" style="width:100px; height:100px;"></td>
+            <td style="border: 1px solid #ddd; padding: 8px; vertical-align: middle;">유성환</td>
+            <td style="border: 1px solid #ddd; padding: 8px; vertical-align: middle;">정보보안암호수학과</td>
+            <td style="border: 1px solid #ddd; padding: 8px; vertical-align: middle;">정보보안, 운동, 음악</td>
+            <td style="border: 1px solid #ddd; padding: 8px; vertical-align: middle;">
+                <img src="https://github.com/user-attachments/assets/61c4a73a-fcf1-4a64-af70-af4e6afcadbe" alt="유성환" style="width: 100px; height: 100px;">
+            </td>
         </tr>
     </tbody>
 </table>
+
 
 
 # 팀 목표
