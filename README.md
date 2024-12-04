@@ -1,7 +1,7 @@
-슬로건
-Slow Starter, Fast Follower
+# 슬로건
+> **"Slow Starter, Fast Follower"**  
 
-팀 소개
+# 팀 소개
 | 이름 | 전공 | 관심사 | 프로필 |
 |-------|-------|-------|-------|
 | 김용민   | 값2   | 값3   | 값4   |
