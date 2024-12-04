@@ -11,49 +11,49 @@
 <table style="border-collapse: collapse; width: 100%; text-align: center;">
     <thead>
         <tr>
-            <th style="border: 1px solid #ddd;">이름</th>
-            <th style="border: 1px solid #ddd;">전공</th>
-            <th style="border: 1px solid #ddd;">관심사</th>
-            <th style="border: 1px solid #ddd;">프로필</th>
+            <th style="border: 1px solid #ddd;padding: 8px;">이름</th>
+            <th style="border: 1px solid #ddd;padding: 8px;">전공</th>
+            <th style="border: 1px solid #ddd;padding: 8px;">관심사</th>
+            <th style="border: 1px solid #ddd;padding: 8px;">프로필</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td style="border: 1px solid #ddd; vertical-align: middle;">김용민</td>
-            <td style="border: 1px solid #ddd; vertical-align: middle;">소프트웨어학과</td>
-            <td style="border: 1px solid #ddd; vertical-align: middle;">백엔드</td>
-            <td style="border: 1px solid #ddd; vertical-align: middle;">
+            <td style="border: 1px solid #ddd; vertical-align: middle;padding: 8px;">김용민</td>
+            <td style="border: 1px solid #ddd; vertical-align: middle;padding: 8px;">소프트웨어학과</td>
+            <td style="border: 1px solid #ddd; vertical-align: middle;padding: 8px;">백엔드</td>
+            <td style="border: 1px solid #ddd; vertical-align: middle;;">
                 <img src="https://github.com/user-attachments/assets/a1e6f94e-0296-4450-b51c-d6e96f978332" alt="김용민" style="width: 100px; height: auto;">
             </td>
         </tr>
         <tr>
-            <td style="border: 1px solid #ddd; vertical-align: middle;">신관우</td>
-            <td style="border: 1px solid #ddd; vertical-align: middle;">자동차IT융합학과</td>
-            <td style="border: 1px solid #ddd; vertical-align: middle;">프론트엔드, 차량 인포테인먼트</td>
+            <td style="border: 1px solid #ddd; vertical-align: middle;padding: 8px;">신관우</td>
+            <td style="border: 1px solid #ddd; vertical-align: middle;padding: 8px;">자동차IT융합학과</td>
+            <td style="border: 1px solid #ddd; vertical-align: middle;padding: 8px;">프론트엔드, 차량 인포테인먼트</td>
             <td style="border: 1px solid #ddd; vertical-align: middle;">
                 <img src="https://github.com/user-attachments/assets/af2d7277-58bd-4bef-97f2-6e299cc36369" alt="신관우" style="width: 100px; height: auto;">
             </td>
         </tr>
         <tr>
-            <td style="border: 1px solid #ddd; vertical-align: middle;">김민식</td>
-            <td style="border: 1px solid #ddd; vertical-align: middle;">소프트웨어학과</td>
-            <td style="border: 1px solid #ddd; vertical-align: middle;">게임 프로그래밍</td>
+            <td style="border: 1px solid #ddd; vertical-align: middle;padding: 8px;">김민식</td>
+            <td style="border: 1px solid #ddd; vertical-align: middle;padding: 8px;">소프트웨어학과</td>
+            <td style="border: 1px solid #ddd; vertical-align: middle;padding: 8px;">게임 프로그래밍</td>
             <td style="border: 1px solid #ddd; vertical-align: middle;">
                 <img src="https://github.com/user-attachments/assets/ba2df5e6-e862-41af-a6e0-154a8f665656" alt="김민식" style="width: 100px; height: auto;">
             </td>
         </tr>
         <tr>
-            <td style="border: 1px solid #ddd; vertical-align: middle;">방민경</td>
-            <td style="border: 1px solid #ddd; vertical-align: middle;">국어국문학과</td>
-            <td style="border: 1px solid #ddd; vertical-align: middle;">파이썬</td>
+            <td style="border: 1px solid #ddd; vertical-align: middle;padding: 8px;">방민경</td>
+            <td style="border: 1px solid #ddd; vertical-align: middle;padding: 8px;">국어국문학과</td>
+            <td style="border: 1px solid #ddd; vertical-align: middle;padding: 8px;">파이썬</td>
             <td style="border: 1px solid #ddd; vertical-align: middle;">
                 <img src="https://github.com/user-attachments/assets/79d63c45-667e-4992-a9be-f12448601436" alt="방민경" style="width: 100px; height: auto;">
             </td>
         </tr>
         <tr>
-            <td style="border: 1px solid #ddd; vertical-align: middle;">유성환</td>
-            <td style="border: 1px solid #ddd; vertical-align: middle;">정보보안암호수학과</td>
-            <td style="border: 1px solid #ddd; vertical-align: middle;">정보보안, 운동, 음악</td>
+            <td style="border: 1px solid #ddd; vertical-align: middle;padding: 8px;">유성환</td>
+            <td style="border: 1px solid #ddd; vertical-align: middle;padding: 8px;">정보보안암호수학과</td>
+            <td style="border: 1px solid #ddd; vertical-align: middle;padding: 8px;">정보보안, 운동, 음악</td>
             <td style="border: 1px solid #ddd; vertical-align: middle;">
                 <img src="https://github.com/user-attachments/assets/61c4a73a-fcf1-4a64-af70-af4e6afcadbe" alt="유성환" style="width: 100px; height: auto;">
             </td>
@@ -71,49 +71,49 @@
 <table style="border-collapse: collapse; width: 100%; text-align: center;">
     <thead>
         <tr>
-            <th style="border: 1px solid #ddd;">활동</th>
-            <th style="border: 1px solid #ddd;">알아본 것</th>
-            <th style="border: 1px solid #ddd;">알게된 내용 혹은 키워드</th>
-            <th style="border: 1px solid #ddd;">사진</th>
+            <th style="border: 1px solid #ddd;padding: 10px;">활동</th>
+            <th style="border: 1px solid #ddd;padding: 10px;">알아본 것</th>
+            <th style="border: 1px solid #ddd;padding: 10px;">알게된 내용 혹은 키워드</th>
+            <th style="border: 1px solid #ddd;padding: 10px;">사진</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td style="border: 1px solid #ddd; vertical-align: middle;">대학원생 인터뷰</td>
-            <td style="border: 1px solid #ddd; vertical-align: middle;">인공지능 분야에 관심이 있는 팀원이 많았는데, 인공지능 랩실에 오기 위해 어떤 것을 해야하는지 알아봄</td>
-            <td style="border: 1px solid #ddd; vertical-align: middle;">인공지능 관련 강의, 학부연구생, 현장실습, 유튜브 강의, 캐글 실습</td>
+            <td style="border: 1px solid #ddd; vertical-align: middle;padding: 10px;">대학원생 인터뷰</td>
+            <td style="border: 1px solid #ddd; vertical-align: middle;padding: 10px;">인공지능 분야에 관심이 있는 팀원이 많았는데, 인공지능 랩실에 오기 위해 어떤 것을 해야하는지 알아봄</td>
+            <td style="border: 1px solid #ddd; vertical-align: middle;padding: 10px;">인공지능 관련 강의, 학부연구생, 현장실습, 유튜브 강의, 캐글 실습</td>
             <td style="border: 1px solid #ddd; vertical-align: middle;">
                 <img src="https://github.com/user-attachments/assets/eed61b1f-8a66-4f0e-9f12-28a93c91de94" alt="대학원생 인터뷰" style="width: 1000px; height: auto;">
             </td>
         </tr>
         <tr>
-            <td style="border: 1px solid #ddd; vertical-align: middle;">보직 교수님 면담</td>
-            <td style="border: 1px solid #ddd; vertical-align: middle;">학교 교과 활동과 비교과 활동 중 도움이 될 수 있는 활동을 알아봄</td>
-            <td style="border: 1px solid #ddd; vertical-align: middle;">특정 분야보다는 다양한 분야 학습하기, UCI Great Program</td>
+            <td style="border: 1px solid #ddd; vertical-align: middle;padding: 10px;">보직 교수님 면담</td>
+            <td style="border: 1px solid #ddd; vertical-align: middle;padding: 10px;">학교 교과 활동과 비교과 활동 중 도움이 될 수 있는 활동을 알아봄</td>
+            <td style="border: 1px solid #ddd; vertical-align: middle;padding: 10px;">특정 분야보다는 다양한 분야 학습하기, UCI Great Program</td>
             <td style="border: 1px solid #ddd; vertical-align: middle;">
                 <img src="https://github.com/user-attachments/assets/3bc3510f-be8f-4fe3-b2ed-50f2cfd8a0e5" alt="보직 교수님 면담" style="width: 1000px; height: auto;">
             </td>
         </tr>
         <tr>
-            <td style="border: 1px solid #ddd; vertical-align: middle;">정보통신처 탐방</td>
-            <td style="border: 1px solid #ddd; vertical-align: middle;">학교 on국민 등의 시스템이 어떻게 운영되는지 알아봄</td>
-            <td style="border: 1px solid #ddd; vertical-align: middle;">실제 서비스에서 보안과 트래픽 처리 등이 어떻게 이루어지고 있는지 알 수 있었음</td>
+            <td style="border: 1px solid #ddd; vertical-align: middle;padding: 10px;">정보통신처 탐방</td>
+            <td style="border: 1px solid #ddd; vertical-align: middle;padding: 10px;">학교 on국민 등의 시스템이 어떻게 운영되는지 알아봄</td>
+            <td style="border: 1px solid #ddd; vertical-align: middle;padding: 10px;">실제 서비스에서 보안과 트래픽 처리 등이 어떻게 이루어지고 있는지 알 수 있었음</td>
             <td style="border: 1px solid #ddd; vertical-align: middle;">
                 <img src="https://github.com/user-attachments/assets/b13caca7-74a2-4e45-8f8e-ef7d5c79df09" alt="정보통신처 탐방" style="width: 1000px; height: auto;">
             </td>
         </tr>
         <tr>
-            <td style="border: 1px solid #ddd; vertical-align: middle;">소융대 멘토링</td>
-            <td style="border: 1px solid #ddd; vertical-align: middle;">최근 인공지능 트랜드와 앞으로의 동향에 대해 알아봄</td>
-            <td style="border: 1px solid #ddd; vertical-align: middle;">멀티모달 LLM, Fine-Tuning, RAG, Edge-AI에 대해 알게 되었고 추후 몇년간 이러한 기술이 계속 발전할 것</td>
+            <td style="border: 1px solid #ddd; vertical-align: middle;padding: 10px;">소융대 멘토링</td>
+            <td style="border: 1px solid #ddd; vertical-align: middle;padding: 10px;">최근 인공지능 트랜드와 앞으로의 동향에 대해 알아봄</td>
+            <td style="border: 1px solid #ddd; vertical-align: middle;padding: 10px;">멀티모달 LLM, Fine-Tuning, RAG, Edge-AI에 대해 알게 되었고 추후 몇년간 이러한 기술이 계속 발전할 것</td>
             <td style="border: 1px solid #ddd; vertical-align: middle;">
                 <img src="https://github.com/user-attachments/assets/e9973594-802f-4083-bf24-106de361846d" alt="소융대 멘토링" style="width: 1000px; height: auto;">
             </td>
         </tr>
         <tr>
-            <td style="border: 1px solid #ddd; vertical-align: middle;">행정실 탐방</td>
-            <td style="border: 1px solid #ddd; vertical-align: middle;">팀원들 중 전과 혹은 복수전공을 하고 있는 비율이 높았기에 이러한 부분에서 도움을 받을 수 있는 부분이나 주의할 점에 대해서 알아봄</td>
-            <td style="border: 1px solid #ddd; vertical-align: middle;">학점인정표로 인정 과목 알아보기, 전과 후 어려움이 있다면 융합전공 알아보기</td>
+            <td style="border: 1px solid #ddd; vertical-align: middle;padding: 10px;">행정실 탐방</td>
+            <td style="border: 1px solid #ddd; vertical-align: middle;padding: 10px;">팀원들 중 전과 혹은 복수전공을 하고 있는 비율이 높았기에 이러한 부분에서 도움을 받을 수 있는 부분이나 주의할 점에 대해서 알아봄</td>
+            <td style="border: 1px solid #ddd; vertical-align: middle;padding: 10px;">학점인정표로 인정 과목 알아보기, 전과 후 어려움이 있다면 융합전공 알아보기</td>
             <td style="border: 1px solid #ddd; vertical-align: middle;">
                 <img src="https://github.com/user-attachments/assets/5e542138-f81c-4fb7-a705-3a90974ab2cc" alt="행정실 탐방" style="width: 1000px; height: auto;">
             </td>
@@ -147,45 +147,45 @@
 <table style="border-collapse: collapse; width: 100%; text-align: center;">
     <thead>
         <tr>
-            <th style="border: 1px solid #ddd;">이름</th>
-            <th style="border: 1px solid #ddd;">소감 및 앞으로의 목표</th>
+            <th style="border: 1px solid #ddd;padding: 10px;">이름</th>
+            <th style="border: 1px solid #ddd;padding: 10px;">소감 및 앞으로의 목표</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td style="border: 1px solid #ddd; vertical-align: middle;">김용민</td>
-            <td style="border: 1px solid #ddd; vertical-align: middle;">
+            <td style="border: 1px solid #ddd; vertical-align: middle;padding: 10px;">김용민</td>
+            <td style="border: 1px solid #ddd; vertical-align: middle;padding: 10px;">
                 지금까지 공부하면서 느낀 부분은 내가 개발을 좋아한다는 점이었다. 그래서 인생 목표는 나만의 서비스를 만들어서 운영해보는 것으로 정했다. 
                 잠깐 공모전이나 이력서 용으로 운영하는 것이 아닌 오래 운영해볼 수 있는 서비스를 개발해보고 싶다. 지금 지식으로는 부족하다고 생각하여 
                 웹 개발 분야에 대한 포괄적인 지식도 쌓아보고 취업을 통해 경험도 쌓아보고 싶다. 이를 위해서 학교 현장실습이나 인턴쉽에 대해 알아보고 있다.
             </td>
         </tr>
         <tr>
-            <td style="border: 1px solid #ddd; vertical-align: middle;">신관우</td>
-            <td style="border: 1px solid #ddd; vertical-align: middle;">
+            <td style="border: 1px solid #ddd; vertical-align: middle;padding: 10px;">신관우</td>
+            <td style="border: 1px solid #ddd; vertical-align: middle;padding: 10px;">
                 지금까지 공부를 하면서 시각적인 부분들을 개선하고 싶다는 생각이 들었고, 흥미있는 분야에 깊이 몰입하고자 하는 모습을 발견하였으며, 
                 이와 관련해 앞으로의 커리어를 쌓아가고 싶다. 이를 위해 방학 및 학기 중 공강 및 자투리 시간들을 활용하여 교내외 활동들에 충실히 참여하며 
                 계속해서 주어지는 기회들을 잡기 위해 노력할 것이다.
             </td>
         </tr>
         <tr>
-            <td style="border: 1px solid #ddd; vertical-align: middle;">김민식</td>
-            <td style="border: 1px solid #ddd; vertical-align: middle;">
+            <td style="border: 1px solid #ddd; vertical-align: middle;padding: 10px;">김민식</td>
+            <td style="border: 1px solid #ddd; vertical-align: middle;padding: 10px;">
                 취업을 통해 게임개발자로서의 역량을 키워나가 인디게임을 개발하는 것이 목표이다. 이를 위해 기본적인 CS 지식을 쌓고 
                 스타트업 기업이나 민트로켓과 같이 도전적인 회사에서 경험을 쌓아가고 싶다.
             </td>
         </tr>
         <tr>
-            <td style="border: 1px solid #ddd; vertical-align: middle;">방민경</td>
-            <td style="border: 1px solid #ddd; vertical-align: middle;">
+            <td style="border: 1px solid #ddd; vertical-align: middle;padding: 10px;">방민경</td>
+            <td style="border: 1px solid #ddd; vertical-align: middle;padding: 10px;">
                 단순히 데이터를 다루고 싶다는 생각만 했었는데 그 분야가 정말 다양하다는 것을 다시 한번 깨닫게 되었다. 팀원뿐만 아니라 여러 사람들의 
                 희망 분야와 계획들을 보고 들으며 앞으로 어떤 방향으로 나아갈 수 있고 나아가야 하는지에 대한 생각을 다시 해볼 수 있게 되었다. 
                 기초적인 것들을 단단히 다지며 데이터를 어떻게 하면 효율적으로 다룰 수 있는가에 대해 더 탐구해볼 것이다.
             </td>
         </tr>
         <tr>
-            <td style="border: 1px solid #ddd; vertical-align: middle;">유성환</td>
-            <td style="border: 1px solid #ddd; vertical-align: middle;">
+            <td style="border: 1px solid #ddd; vertical-align: middle;padding: 10px;">유성환</td>
+            <td style="border: 1px solid #ddd; vertical-align: middle;padding: 10px;">
                 정보보안에 관련하여 공부를 하면서 무엇을 분석하고 취약한 부분을 생각하고 공격 논리를 세우는 과정이 너무 나와 잘 맞았다. 
                 그렇기에 앞으로 보안회사나 보안 직무를 담당하여 자산의 정보를 보호하고 컨설팅하면서 커리어를 쌓아나갈 것이다. 
                 커리어를 위해 다양한 대회와 인턴에 참여하면서 다양한 직무를 경험해볼 예정이다.
