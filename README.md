@@ -23,7 +23,7 @@
             <td style="border: 1px solid #ddd; padding: 8px; vertical-align: middle;">소프트웨어학과</td>
             <td style="border: 1px solid #ddd; padding: 8px; vertical-align: middle;">백엔드</td>
             <td style="border: 1px solid #ddd; padding: 8px; vertical-align: middle;">
-                <img src="https://github.com/user-attachments/assets/a1e6f94e-0296-4450-b51c-d6e96f978332" alt="김용민" style="width: 100px; height: 100px;">
+                <img src="https://github.com/user-attachments/assets/a1e6f94e-0296-4450-b51c-d6e96f978332" alt="김용민" style="width: 100px; height: auto;">
             </td>
         </tr>
         <tr>
@@ -31,7 +31,7 @@
             <td style="border: 1px solid #ddd; padding: 8px; vertical-align: middle;">자동차IT융합학과</td>
             <td style="border: 1px solid #ddd; padding: 8px; vertical-align: middle;">프론트엔드, 차량 인포테인먼트</td>
             <td style="border: 1px solid #ddd; padding: 8px; vertical-align: middle;">
-                <img src="https://github.com/user-attachments/assets/af2d7277-58bd-4bef-97f2-6e299cc36369" alt="신관우" style="width: 100px; height: 100px;">
+                <img src="https://github.com/user-attachments/assets/af2d7277-58bd-4bef-97f2-6e299cc36369" alt="신관우" style="width: 100px; height: auto;">
             </td>
         </tr>
         <tr>
@@ -39,7 +39,7 @@
             <td style="border: 1px solid #ddd; padding: 8px; vertical-align: middle;">소프트웨어학과</td>
             <td style="border: 1px solid #ddd; padding: 8px; vertical-align: middle;">게임 프로그래밍</td>
             <td style="border: 1px solid #ddd; padding: 8px; vertical-align: middle;">
-                <img src="https://github.com/user-attachments/assets/ba2df5e6-e862-41af-a6e0-154a8f665656" alt="김민식" style="width: 100px; height: 100px;">
+                <img src="https://github.com/user-attachments/assets/ba2df5e6-e862-41af-a6e0-154a8f665656" alt="김민식" style="width: 100px; height: auto;">
             </td>
         </tr>
         <tr>
@@ -47,7 +47,7 @@
             <td style="border: 1px solid #ddd; padding: 8px; vertical-align: middle;">국어국문학과</td>
             <td style="border: 1px solid #ddd; padding: 8px; vertical-align: middle;">파이썬</td>
             <td style="border: 1px solid #ddd; padding: 8px; vertical-align: middle;">
-                <img src="https://github.com/user-attachments/assets/79d63c45-667e-4992-a9be-f12448601436" alt="방민경" style="width: 100px; height: 100px;">
+                <img src="https://github.com/user-attachments/assets/79d63c45-667e-4992-a9be-f12448601436" alt="방민경" style="width: 100px; height: auto;">
             </td>
         </tr>
         <tr>
@@ -55,7 +55,7 @@
             <td style="border: 1px solid #ddd; padding: 8px; vertical-align: middle;">정보보안암호수학과</td>
             <td style="border: 1px solid #ddd; padding: 8px; vertical-align: middle;">정보보안, 운동, 음악</td>
             <td style="border: 1px solid #ddd; padding: 8px; vertical-align: middle;">
-                <img src="https://github.com/user-attachments/assets/61c4a73a-fcf1-4a64-af70-af4e6afcadbe" alt="유성환" style="width: 100px; height: 100px;">
+                <img src="https://github.com/user-attachments/assets/61c4a73a-fcf1-4a64-af70-af4e6afcadbe" alt="유성환" style="width: 100px; height: auto;">
             </td>
         </tr>
     </tbody>
@@ -83,7 +83,7 @@
             <td style="border: 1px solid #ddd; padding: 10px; vertical-align: middle;">인공지능 분야에 관심이 있는 팀원이 많았는데, 인공지능 랩실에 오기 위해 어떤 것을 해야하는지 알아봄</td>
             <td style="border: 1px solid #ddd; padding: 10px; vertical-align: middle;">인공지능 관련 강의, 학부연구생, 현장실습, 유튜브 강의, 캐글 실습</td>
             <td style="border: 1px solid #ddd; padding: 10px; vertical-align: middle;">
-                <img src="https://github.com/user-attachments/assets/eed61b1f-8a66-4f0e-9f12-28a93c91de94" alt="대학원생 인터뷰" style="width: 1000px; height: auto;">
+                <img src="https://github.com/user-attachments/assets/eed61b1f-8a66-4f0e-9f12-28a93c91de94" alt="대학원생 인터뷰" style="width: 500px; height: auto;">
             </td>
         </tr>
         <tr>
@@ -91,7 +91,7 @@
             <td style="border: 1px solid #ddd; padding: 10px; vertical-align: middle;">학교 교과 활동과 비교과 활동 중 도움이 될 수 있는 활동을 알아봄</td>
             <td style="border: 1px solid #ddd; padding: 10px; vertical-align: middle;">특정 분야보다는 다양한 분야 학습하기, UCI Great Program</td>
             <td style="border: 1px solid #ddd; padding: 10px; vertical-align: middle;">
-                <img src="https://github.com/user-attachments/assets/3bc3510f-be8f-4fe3-b2ed-50f2cfd8a0e5" alt="보직 교수님 면담" style="width: 1000px; height: auto;">
+                <img src="https://github.com/user-attachments/assets/3bc3510f-be8f-4fe3-b2ed-50f2cfd8a0e5" alt="보직 교수님 면담" style="width: 500px; height: auto;">
             </td>
         </tr>
         <tr>
@@ -99,7 +99,7 @@
             <td style="border: 1px solid #ddd; padding: 10px; vertical-align: middle;">학교 on국민 등의 시스템이 어떻게 운영되는지 알아봄</td>
             <td style="border: 1px solid #ddd; padding: 10px; vertical-align: middle;">실제 서비스에서 보안과 트래픽 처리 등이 어떻게 이루어지고 있는지 알 수 있었음</td>
             <td style="border: 1px solid #ddd; padding: 10px; vertical-align: middle;">
-                <img src="https://github.com/user-attachments/assets/b13caca7-74a2-4e45-8f8e-ef7d5c79df09" alt="정보통신처 탐방" style="width: 1000px; height: auto;">
+                <img src="https://github.com/user-attachments/assets/b13caca7-74a2-4e45-8f8e-ef7d5c79df09" alt="정보통신처 탐방" style="width: 500px; height: auto;">
             </td>
         </tr>
         <tr>
@@ -107,7 +107,7 @@
             <td style="border: 1px solid #ddd; padding: 10px; vertical-align: middle;">최근 인공지능 트랜드와 앞으로의 동향에 대해 알아봄</td>
             <td style="border: 1px solid #ddd; padding: 10px; vertical-align: middle;">멀티모달 LLM, Fine-Tuning, RAG, Edge-AI에 대해 알게 되었고 추후 몇년간 이러한 기술이 계속 발전할 것</td>
             <td style="border: 1px solid #ddd; padding: 10px; vertical-align: middle;">
-                <img src="https://github.com/user-attachments/assets/e9973594-802f-4083-bf24-106de361846d" alt="소융대 멘토링" style="width: 1000px; height: auto;">
+                <img src="https://github.com/user-attachments/assets/e9973594-802f-4083-bf24-106de361846d" alt="소융대 멘토링" style="width: 500px; height: auto;">
             </td>
         </tr>
         <tr>
@@ -115,7 +115,7 @@
             <td style="border: 1px solid #ddd; padding: 10px; vertical-align: middle;">팀원들 중 전과 혹은 복수전공을 하고 있는 비율이 높았기에 이러한 부분에서 도움을 받을 수 있는 부분이나 주의할 점에 대해서 알아봄</td>
             <td style="border: 1px solid #ddd; padding: 10px; vertical-align: middle;">학점인정표로 인정 과목 알아보기, 전과 후 어려움이 있다면 융합전공 알아보기</td>
             <td style="border: 1px solid #ddd; padding: 10px; vertical-align: middle;">
-                <img src="https://github.com/user-attachments/assets/5e542138-f81c-4fb7-a705-3a90974ab2cc" alt="행정실 탐방" style="width: 1000px; height: auto;">
+                <img src="https://github.com/user-attachments/assets/5e542138-f81c-4fb7-a705-3a90974ab2cc" alt="행정실 탐방" style="width: 500px; height: auto;">
             </td>
         </tr>
     </tbody>
